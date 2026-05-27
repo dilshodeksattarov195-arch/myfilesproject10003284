@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessioncerify",
+        "uuid": 22393596,
+        "checksum": "f3jhl"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
